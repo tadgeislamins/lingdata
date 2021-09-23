@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-24T01:59:05+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///C:/Users/Tasya/Desktop/FiKL/linda/ust'utka.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./ust'utka.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:1b28faf5-b51d-46d3-afcf-cfc830f07743</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">61</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="90"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="9440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="9580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="14750"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="14805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="15175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="15535"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="18615"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="18625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="20130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="20205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="20523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="20525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="29015"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="29269"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="32116"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="32613"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="32957"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="33154"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="40584"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="40744"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="46783"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="47003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="49356"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="49402"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="49976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="50147"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="62917"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="63005"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="63619"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="63796"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="65369"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="66004"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="71127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="71172"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="72068"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="72842"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="74029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="75203"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="78047"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="78629"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="79598"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="80733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="80738"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="80817"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="83583"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="83645"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="85873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="86870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="87099"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="87927"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="94451"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="94567"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="99614"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="99784"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="100650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="100732"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="107199"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="tadgeislamins" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@gas1937m" TIER_ID="text@gas1937m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>это / м / это временные рабочие на сплаве / временные //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>там / бу... бурла... если бурлаки на Волге / они / тянули барки //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>там / у Селковникова были / нет? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>там они э / это не для нас памятник конечно / не для наших бурлаков / потому что наши бурлаки радовались сплаву / рады //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>во-первых / за сплав он получал десять рублей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>это / три дня погрузки / барки / четыре дня плыли до Перми / до Лёвшино они плыли / не до Перми //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>четыре дня плыли / ну и пусть три-четыре дня шли обратно / это десять дней / и зарабатывали десять рублей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>аа / корова стоила пять рублей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>стало быть / две коровы / это по современным меркам пятьдесят-шестьдесят тысяч / то есть по пять-шесть тысяч в день они зарабатывали / неплохой заработок был / в то время / когда / негде было заработать //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ну / и осенью плавали / то есть / вода прибудет осенью / и летом / вода прибудет / сразу грузили барки / всё / отправляли //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ну / немного конечно / было уже / там //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>тут вс... / тут все были бурлаки / все //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>рады были все что сплав / даже женщины плавали //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>заработок во-первых хороший //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>я / это / эээ / знаком / вот / далеко жил / Долматов Павел Васильевич //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>вот там / в #нрзб# / речка #нрзб# / Долматов Павел Васильевич жил / и вот он / он сплавщик //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="tadgeislamins" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@nvs1970f" TIER_ID="text@nvs1970f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>а вот / буралки / э м это э слово мы встречаем в источниках / а э оно / э что означает / кто эти люди / бурлаки? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>угу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>угу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>угу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>угу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>а в / в вашей семье / были тоже бурлаки? / или //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>тут / тут все //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>угу / угу / и ээ //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>вы / ещё с людьми / которые сами сплавлялись / вы с ними знакомы / были / да? / вот с этими стариками / которые ещё сплавлялись //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>угу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="tadgeislamins" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@ime1994m" TIER_ID="text@ime1994m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>и это был весенний / да / вот этот сплав? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>угу //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="tadgeislamins" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@gas1937m"
+        PARTICIPANT="@gas1937m" TIER_ID="transl@gas1937m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>These are temporary workers on the alloy. Temporary ones.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>While barge haulers on the Volga River, they were pulling barges, ... </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>There... At Selkovnikov's, have you been there?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>There they... This monument is not for us, of course, not for our barge haulers. Because our barge haulers were glad when there was an alloy, glad.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Firstly, for an alloy he got 10 rubbles.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>It was for 3 days of loading the barge, four days of floating to Perm... they were floating to Levshino, not to Perm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>For 4 days they were floating, and let it be for 3-4 days they were walking back. It was 10 days. And they earned 10 rubbles.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>And a cow worthed 5 rubbles.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Therefore, 2 cows. It is 50-60 thousands by today's standards. That is, they earned 5-6 thousands a day. They were good earnings, at the time, when it was nowhere to make money.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Well, they floated in autumn, too. That is, when the water was coming in autumn, and when it was coming in summer, they loaded the barges right away and sent them.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Well, there has already been only few, of course.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>All.. all were barge haulers there. All.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Everyone was happy that there was alloy. Even women floated.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Firstly, the earnings were good.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>I was acquainted... Dolmatov Pavel Vasilievich lived there, far away.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Over there, #inaudible#, Dolmatov Pavel Vasilievich lived. And he was a raftsman.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="tadgeislamins" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@nvs1970f"
+        PARTICIPANT="@nvs1970f" TIER_ID="transl@nvs1970f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Barge haulers, we come across this word in sources. But what does it mean? Who are these people, barge haulers?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Mm-hmm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>Yes.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Mm-hmm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Mm-hmm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Mm-hmm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>And were there barge haulers in your family, too? Or..?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>They all were.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Mm-hmm, mm-hmm. And eh...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>You were acquainted with the people that floated themselves, you were acquainted with them, weren't you? With these old men that floated.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Mm-hmm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="tadgeislamins" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@ime1994m"
+        PARTICIPANT="@ime1994m" TIER_ID="transl@ime1994m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>So, it was in spring, this alloy, wasn't it?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Mm-hmm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="ru" VARIANT="YAWERTY (Phonetic)"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_94fae84c-31dc-476b-8d9a-0384ec064afe">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0cbc8281-8862-4268-ae93-8271774c4c44">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3143fe4d-3b48-4cd5-8689-f11d73921d26">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8c521b78-2fce-49b4-981c-a1095a8f9d46">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_27d3be2c-7e84-445b-86a5-a3d66712e865">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5a7aa251-e3ba-45cd-8c69-885413caa397">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_de4b0052-bc5f-40a5-9fa3-1e4ab19d36c2">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_35da45e5-803a-463a-902a-108184bc9bee">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a545883c-3ef6-450d-81aa-47ce3aa524da">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7c9d5eaa-bed7-4e33-9221-a9eb12d53fdb">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e6dfe73c-4821-495e-bf85-1b60894e1701">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_33cb20fb-d3ad-4a4e-900a-f8c5386d8fc0">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_037d85b9-e4b4-4865-8767-ca8d9d0f26c8">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_76d88065-4552-4548-b866-1a10f8afa09e">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_77cb680b-606d-44d4-871b-bf9595662760">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ffdcc2e3-562a-4919-9d25-28be0ad12bb1">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_61d5003b-7b46-4080-b5bd-975d4650710b">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
